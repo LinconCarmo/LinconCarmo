@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oi, eu sou o Lincon 👋
+# Oi, eu sou o Lincon!
 
 ### Desenvolvedor Backend em construção
 
