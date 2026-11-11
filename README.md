@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Sou o Lincon, estudante de Desenvolvimento de Software e atualmente focado em Backend.
+Sou um estudante de Desenvolvimento de Software e atualmente estou focado em contruir Backend.
 
 Gosto de entender o que acontece por trás das aplicações. Tenho aprendido criando projetos, desenvolvendo APIs, trabalhando com banco de dados e automatizando tarefas. Gosto de descobrir como as peças se conectam, não apenas fazer o código funcionar.
 
