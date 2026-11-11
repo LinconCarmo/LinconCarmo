@@ -1,12 +1,26 @@
-# Olá! Eu sou o Lincon Carmo 👋
+<div align="center">
 
-Desenvolvedor Backend em formação, interessado em construir APIs, automatizar processos e desenvolver soluções de software.
+# Oi, eu sou o Lincon 👋
 
-Atualmente, meu foco está em Python, desenvolvimento de APIs e boas práticas de engenharia de software.
+### Desenvolvedor Backend em construção
+
+Gosto de entender como as coisas funcionam por trás da tela e transformar ideias em soluções que realmente ajudam no dia a dia.
+
+[![GitHub](https://img.shields.io/badge/GitHub-LinconCarmo-181717?style=flat-square&logo=github)](https://github.com/LinconCarmo)
+
+</div>
 
 ---
 
-### Tecnologias e ferramentas
+## Um pouco sobre mim
+
+Sou estudante de Desenvolvimento de Software e tenho direcionado meus estudos para Backend.
+
+Tenho aprendido principalmente colocando a mão na massa: criando APIs, trabalhando com banco de dados, automatizando tarefas e tentando entender o motivo de cada decisão no código. Não quero só fazer funcionar, quero entender o que estou construindo.
+
+Atualmente, meu foco é Python e desenvolvimento de APIs.
+
+## No meu dia a dia de código
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -18,26 +32,25 @@ Atualmente, meu foco está em Python, desenvolvimento de APIs e boas práticas d
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
+## Projetos que estou desenvolvendo
 
-### Projetos em destaque
+| Projeto | Sobre |
+|:--|:--|
+| [pizzaria-api](https://github.com/LinconCarmo/pizzaria-api) | Um projeto de API com Python e FastAPI. É onde pratico backend, autenticação, banco de dados e testes. |
+| [MentorPortal](https://github.com/LinconCarmo/MentorPortal) | Projeto privado com ferramentas para automatizar tarefas relacionadas ao trabalho de mentoring. |
+| [-cse340-course-repo](https://github.com/LinconCarmo/-cse340-course-repo) | Repositório das atividades e projetos desenvolvidos durante meus estudos. |
 
-| Projeto | Descrição |
-| --- | --- |
-| [Pizzaria API](https://github.com/LinconCarmo/pizzaria-api) | API backend desenvolvida com Python e FastAPI para gerenciamento de usuários, pedidos e produtos. |
-| [MentorPortal](https://github.com/LinconCarmo/MentorPortal) | Ferramentas de automação para apoiar atividades e fluxos de trabalho de mentoring. Repositório privado. |
-| [CSE 340 Course](https://github.com/LinconCarmo/-cse340-course-repo) | Repositório acadêmico com atividades e projetos desenvolvidos durante o curso. |
+## Aprendendo agora
 
----
-
-### No momento
-
-- Aprofundando meus conhecimentos em desenvolvimento Backend.
-- Estudando arquitetura de aplicações, APIs e bancos de dados.
-- Praticando testes automatizados e organização de código.
+- Construção e organização de APIs.
+- Arquitetura de software e regras de negócio.
+- Banco de dados e autenticação.
+- Testes automatizados e qualidade de código.
 
 ---
 
-<p align="center">
-  <i>Aprendendo continuamente e transformando conhecimento em projetos.</i>
-</p>
+<div align="center">
+
+*Um passo de cada vez. Um projeto de cada vez.*
+
+</div>
