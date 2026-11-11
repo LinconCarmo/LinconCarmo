@@ -1,56 +1,71 @@
 <div align="center">
 
-# Oi, eu sou o Lincon!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1d4ed8,100:06b6d4&height=180&section=header&text=Lincon%20Carmo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Development&descAlignY=58&descSize=16" />
 
-### Desenvolvedor Backend em construção
-
-Gosto de entender como as coisas funcionam por trás da tela e transformar ideias em soluções que realmente ajudam no dia a dia.
-
-[![GitHub](https://img.shields.io/badge/GitHub-LinconCarmo-181717?style=flat-square&logo=github)](https://github.com/LinconCarmo)
+<a href="https://github.com/LinconCarmo">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=38BDF8&center=true&vCenter=true&width=520&lines=Python+%7C+FastAPI+%7C+Backend;Aprendendo%2C+construindo+e+evoluindo." alt="Backend development" />
+</a>
 
 </div>
 
 ---
 
-## Um pouco sobre mim
+## Sobre mim
 
-Sou estudante de Desenvolvimento de Software e tenho direcionado meus estudos para Backend.
+Sou o Lincon, estudante de Desenvolvimento de Software e atualmente focado em Backend.
 
-Tenho aprendido principalmente colocando a mão na massa: criando APIs, trabalhando com banco de dados, automatizando tarefas e tentando entender o motivo de cada decisão no código. Não quero só fazer funcionar, quero entender o que estou construindo.
+Curto entender o que acontece por trás das aplicações. Tenho aprendido criando projetos, desenvolvendo APIs, trabalhando com banco de dados e automatizando tarefas. Gosto de descobrir como as peças se conectam, não apenas fazer o código funcionar.
 
-Atualmente, meu foco é Python e desenvolvimento de APIs.
+No momento, Python é minha principal ferramenta de estudo e desenvolvimento.
 
-## No meu dia a dia de código
+## Tecnologias
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+<div align="center">
 
-## Projetos que estou desenvolvendo
+<img src="https://skillicons.dev/icons?i=python,fastapi,mysql,prisma,docker,git,github,pytest&theme=dark" alt="Tecnologias" />
 
-| Projeto | Sobre |
-|:--|:--|
-| [pizzaria-api](https://github.com/LinconCarmo/pizzaria-api) | Um projeto de API com Python e FastAPI. É onde pratico backend, autenticação, banco de dados e testes. |
-| [MentorPortal](https://github.com/LinconCarmo/MentorPortal) | Projeto privado com ferramentas para automatizar tarefas relacionadas ao trabalho de mentoring. |
-| [-cse340-course-repo](https://github.com/LinconCarmo/-cse340-course-repo) | Repositório das atividades e projetos desenvolvidos durante meus estudos. |
+</div>
 
-## Aprendendo agora
+## Projetos
 
-- Construção e organização de APIs.
-- Arquitetura de software e regras de negócio.
-- Banco de dados e autenticação.
-- Testes automatizados e qualidade de código.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🍕 pizzaria-api</h3>
+      <p>API construída com Python e FastAPI. Um projeto para praticar autenticação, regras de negócio, banco de dados e testes.</p>
+      <a href="https://github.com/LinconCarmo/pizzaria-api">Ver repositório ↗</a>
+    </td>
+    <td width="50%">
+      <h3>⚙️ MentorPortal</h3>
+      <p>Projeto privado com ferramentas de automação para apoiar tarefas e processos de mentoring.</p>
+      <sub>Repositório privado</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📚 CSE 340</h3>
+      <p>Atividades e projetos desenvolvidos durante meus estudos de desenvolvimento web.</p>
+      <a href="https://github.com/LinconCarmo/-cse340-course-repo">Ver repositório ↗</a>
+    </td>
+    <td width="50%">
+      <h3>🎯 Próximo passo</h3>
+      <p>Aprofundar conhecimentos em arquitetura, APIs, bancos de dados, testes automatizados e qualidade de código.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
 
-*Um passo de cada vez. Um projeto de cada vez.*
+<a href="https://github.com/LinconCarmo">
+  <img src="https://img.shields.io/badge/GitHub-LinconCarmo-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<sub>Construindo projetos, aprendendo no caminho.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:111827&height=90&section=footer" />
 
 </div>
