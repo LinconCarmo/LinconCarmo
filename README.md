@@ -14,7 +14,7 @@
 
 Sou o Lincon, estudante de Desenvolvimento de Software e atualmente focado em Backend.
 
-Curto entender o que acontece por trás das aplicações. Tenho aprendido criando projetos, desenvolvendo APIs, trabalhando com banco de dados e automatizando tarefas. Gosto de descobrir como as peças se conectam, não apenas fazer o código funcionar.
+Gosto de entender o que acontece por trás das aplicações. Tenho aprendido criando projetos, desenvolvendo APIs, trabalhando com banco de dados e automatizando tarefas. Gosto de descobrir como as peças se conectam, não apenas fazer o código funcionar.
 
 No momento, Python é minha principal ferramenta de estudo e desenvolvimento.
 
@@ -49,7 +49,7 @@ No momento, Python é minha principal ferramenta de estudo e desenvolvimento.
     </td>
     <td width="50%">
       <h3>🎯 Próximo passo</h3>
-      <p>Aprofundar conhecimentos em arquitetura, APIs, bancos de dados, testes automatizados e qualidade de código.</p>
+      <p>Aprofundando conhecimentos em arquitetura, APIs, bancos de dados, testes automatizados e qualidade de código.</p>
     </td>
   </tr>
 </table>
